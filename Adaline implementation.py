@@ -1,4 +1,4 @@
-#adaline - gradient descent rule learning implementation for ANDNOT gate truth table as an input example.
+# adaline - gradient descent rule learning implementation for ANDNOT gate truth table as an input example.
 
 
 import math as meth
