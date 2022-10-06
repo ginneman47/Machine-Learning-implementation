@@ -1,2 +1,2 @@
 # Machine-Learning-implementation
-Machine learning algorithms are developed from ground up using python(no scikit or alike libraries are used).
+ Deep Learning algorithms are developed from ground up using python(no tensorflow or alike libraries are used).
